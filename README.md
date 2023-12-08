@@ -1,8 +1,9 @@
 # Malkin-Attire 🧙🏻
 
-<div style="text-align: center;">
-    <img src="https://github.com/sparkerhoney/Malkin-Attire/assets/108461006/29c04889-ecfc-43eb-a8d7-be05139bf692" width="50%" height="auto">
-</div>
+<center>
+    <img src="https://github.com/sparkerhoney/Malkin-Attire/assets/108461006/29c04889-ecfc-43eb-a8d7-be05139bf692" width="50%">
+</center>
+
 
 
 
