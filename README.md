@@ -1,6 +1,7 @@
 # Malkin-Attire 🧙🏻
 
-![DALL·E 2023-12-08 22 48 11 - A modern Christmas scene in front of 'Malkin-Attire', a magical clothing store  The store is adorned with festive Christmas decorations including spar](https://github.com/sparkerhoney/Malkin-Attire/assets/108461006/29c04889-ecfc-43eb-a8d7-be05139bf692 width="50%")
+<img src="https://github.com/sparkerhoney/Malkin-Attire/assets/108461006/29c04889-ecfc-43eb-a8d7-be05139bf692" width="50%" height="auto">
+
 
 
 ---
